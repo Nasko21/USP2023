@@ -1,4 +1,5 @@
 public class Cat {
     private String name;
-    private int age=0;
+    private int age;
+
 }
